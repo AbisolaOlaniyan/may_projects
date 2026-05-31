@@ -1,3 +1,3 @@
 # Author: "Abisola Olaniyan"
 
-print("Hello, World!")
+print("Hello, Universe!")
